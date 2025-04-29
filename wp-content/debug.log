@@ -1,0 +1,1076 @@
+[26-Apr-2025 09:45:49 UTC] PHP Warning:  Use of undefined constant WRP_PLUGIN_DIR - assumed 'WRP_PLUGIN_DIR' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php on line 14
+[26-Apr-2025 09:45:49 UTC] PHP Warning:  require_once(WRP_PLUGIN_DIRincludes/class-referral-plugin.php): failed to open stream: No such file or directory in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php on line 14
+[26-Apr-2025 09:45:49 UTC] PHP Fatal error:  require_once(): Failed opening required 'WRP_PLUGIN_DIRincludes/class-referral-plugin.php' (include_path='\xampp\php\PEAR') in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php on line 14
+[26-Apr-2025 09:46:17 UTC] PHP Warning:  Use of undefined constant WRP_PLUGIN_DIR - assumed 'WRP_PLUGIN_DIR' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php on line 14
+[26-Apr-2025 09:46:17 UTC] PHP Warning:  require_once(WRP_PLUGIN_DIRincludes/class-referral-plugin.php): failed to open stream: No such file or directory in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php on line 14
+[26-Apr-2025 09:46:17 UTC] PHP Fatal error:  require_once(): Failed opening required 'WRP_PLUGIN_DIRincludes/class-referral-plugin.php' (include_path='\xampp\php\PEAR') in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php on line 14
+[26-Apr-2025 09:46:49 UTC] PHP Fatal error:  Uncaught Error: Class 'AU_Referral_Plugin' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php:18
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): au_init_plugin('')
+#1 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wp_demo\wp-settings.php(578): do_action('plugins_loaded')
+#4 C:\xampp\htdocs\wp_demo\wp-config.php(105): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wp_demo\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wp_demo\wp-admin\admin.php(35): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wp_demo\wp-admin\plugins.php(10): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php on line 18
+[26-Apr-2025 09:47:12 UTC] PHP Warning:  Use of undefined constant WRP_PLUGIN_DIR - assumed 'WRP_PLUGIN_DIR' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php on line 14
+[26-Apr-2025 09:47:12 UTC] PHP Warning:  require_once(WRP_PLUGIN_DIRincludes/class-au-referral-plugin.php): failed to open stream: No such file or directory in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php on line 14
+[26-Apr-2025 09:47:12 UTC] PHP Fatal error:  require_once(): Failed opening required 'WRP_PLUGIN_DIRincludes/class-au-referral-plugin.php' (include_path='\xampp\php\PEAR') in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php on line 14
+[26-Apr-2025 09:47:14 UTC] PHP Warning:  Use of undefined constant WRP_PLUGIN_DIR - assumed 'WRP_PLUGIN_DIR' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php on line 14
+[26-Apr-2025 09:47:14 UTC] PHP Warning:  require_once(WRP_PLUGIN_DIRincludes/class-au-referral-plugin.php): failed to open stream: No such file or directory in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php on line 14
+[26-Apr-2025 09:47:14 UTC] PHP Fatal error:  require_once(): Failed opening required 'WRP_PLUGIN_DIRincludes/class-au-referral-plugin.php' (include_path='\xampp\php\PEAR') in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php on line 14
+[27-Apr-2025 06:40:49 UTC] PHP Warning:  require_once(C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin/includes/class-au-admin-referral-list.php): failed to open stream: No such file or directory in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php on line 6
+[27-Apr-2025 06:40:49 UTC] PHP Fatal error:  require_once(): Failed opening required 'C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin/includes/class-au-admin-referral-list.php' (include_path='\xampp\php\PEAR') in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php on line 6
+[27-Apr-2025 06:41:57 UTC] PHP Warning:  require_once(C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin/includes/class-au-admin-referral-list.php): failed to open stream: No such file or directory in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php on line 6
+[27-Apr-2025 06:41:57 UTC] PHP Fatal error:  require_once(): Failed opening required 'C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin/includes/class-au-admin-referral-list.php' (include_path='\xampp\php\PEAR') in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php on line 6
+[27-Apr-2025 06:42:32 UTC] PHP Warning:  require_once(C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin/includes/class-au-admin-referral-list.php): failed to open stream: No such file or directory in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php on line 6
+[27-Apr-2025 06:42:32 UTC] PHP Fatal error:  require_once(): Failed opening required 'C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin/includes/class-au-admin-referral-list.php' (include_path='\xampp\php\PEAR') in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php on line 6
+[27-Apr-2025 06:43:39 UTC] PHP Warning:  require_once(C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin/includes/class-au-admin-referral-list.php): failed to open stream: No such file or directory in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php on line 6
+[27-Apr-2025 06:43:39 UTC] PHP Fatal error:  require_once(): Failed opening required 'C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin/includes/class-au-admin-referral-list.php' (include_path='\xampp\php\PEAR') in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php on line 6
+[27-Apr-2025 06:43:59 UTC] PHP Warning:  require_once(C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin/includes/class-au-admin-referral-list.php): failed to open stream: No such file or directory in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php on line 6
+[27-Apr-2025 06:43:59 UTC] PHP Fatal error:  require_once(): Failed opening required 'C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin/includes/class-au-admin-referral-list.php' (include_path='\xampp\php\PEAR') in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php on line 6
+[27-Apr-2025 06:44:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Referral_Admin_History_List' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php:10
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php(19): AU_Referral_Plugin->init()
+#1 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): au_init_plugin('')
+#2 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp_demo\wp-settings.php(578): do_action('plugins_loaded')
+#5 C:\xampp\htdocs\wp_demo\wp-config.php(105): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wp_demo\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wp_demo\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php on line 10
+[27-Apr-2025 06:44:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Referral_Admin_History_List' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php:10
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php(19): AU_Referral_Plugin->init()
+#1 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): au_init_plugin('')
+#2 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp_demo\wp-settings.php(578): do_action('plugins_loaded')
+#5 C:\xampp\htdocs\wp_demo\wp-config.php(105): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wp_demo\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wp_demo\wp-admin\admin.php(35): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wp_demo\wp-admin\post.php(12): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php on line 10
+[27-Apr-2025 06:44:32 UTC] PHP Warning:  require_once(C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin/includes/class-au-admin-referral-list.php): failed to open stream: No such file or directory in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php on line 6
+[27-Apr-2025 06:44:32 UTC] PHP Fatal error:  require_once(): Failed opening required 'C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin/includes/class-au-admin-referral-list.php' (include_path='\xampp\php\PEAR') in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php on line 6
+[27-Apr-2025 06:45:14 UTC] PHP Warning:  require_once(C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin/includes/class-au-admin-referral-list.php): failed to open stream: No such file or directory in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php on line 6
+[27-Apr-2025 06:45:14 UTC] PHP Fatal error:  require_once(): Failed opening required 'C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin/includes/class-au-admin-referral-list.php' (include_path='\xampp\php\PEAR') in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php on line 6
+[27-Apr-2025 06:51:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Referral_Custom_Table' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php:33
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-admin\includes\template.php(1836): Referral_Admin_History_List->join_commission_two(Array)
+#1 C:\xampp\htdocs\wp_demo\wp-admin\includes\template.php(1789): do_settings_fields('theme-options-t...', 'section_two')
+#2 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php(19): do_settings_sections('theme-options-t...')
+#3 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): Referral_Admin_History_List->theme_settings_page_two('')
+#4 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#5 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#6 C:\xampp\htdocs\wp_demo\wp-admin\admin.php(260): do_action('toplevel_page_t...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php on line 33
+[27-Apr-2025 07:03:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Referral_Admin_History_List' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php:10
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php(19): AU_Referral_Plugin->init()
+#1 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): au_init_plugin('')
+#2 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp_demo\wp-settings.php(578): do_action('plugins_loaded')
+#5 C:\xampp\htdocs\wp_demo\wp-config.php(105): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wp_demo\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wp_demo\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php on line 10
+[27-Apr-2025 07:03:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Referral_Admin_History_List' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php:10
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php(19): AU_Referral_Plugin->init()
+#1 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): au_init_plugin('')
+#2 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp_demo\wp-settings.php(578): do_action('plugins_loaded')
+#5 C:\xampp\htdocs\wp_demo\wp-config.php(105): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wp_demo\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wp_demo\wp-admin\admin.php(35): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wp_demo\wp-admin\edit.php(10): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php on line 10
+[27-Apr-2025 07:04:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function convert_to_screen() in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php:149
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php(32): WP_List_Table->__construct(Array)
+#1 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php(10): Referral_List_Table->__construct()
+#2 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php(19): AU_Referral_Plugin->init()
+#3 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): au_init_plugin('')
+#4 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#5 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#6 C:\xampp\htdocs\wp_demo\wp-settings.php(578): do_action('plugins_loaded')
+#7 C:\xampp\htdocs\wp_demo\wp-config.php(105): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wp_demo\wp-load.php(50):  in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php on line 149
+[27-Apr-2025 07:06:06 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php:26
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php(6): require_once()
+#1 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php(19): AU_Referral_Plugin->init()
+#2 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): au_init_plugin('')
+#3 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\wp_demo\wp-settings.php(578): do_action('plugins_loaded')
+#6 C:\xampp\htdocs\wp_demo\wp-config.php(105): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wp_demo\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wp_demo\wp-admin\admin.php(35): require_once('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\w in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php on line 26
+[27-Apr-2025 07:06:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function convert_to_screen() in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php:149
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php(34): WP_List_Table->__construct(Array)
+#1 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php(10): Referral_List_Table->__construct()
+#2 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php(19): AU_Referral_Plugin->init()
+#3 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): au_init_plugin('')
+#4 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#5 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#6 C:\xampp\htdocs\wp_demo\wp-settings.php(578): do_action('plugins_loaded')
+#7 C:\xampp\htdocs\wp_demo\wp-config.php(105): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wp_demo\wp-load.php(50):  in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php on line 149
+[27-Apr-2025 07:28:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function convert_to_screen() in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php:149
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php(34): WP_List_Table->__construct(Array)
+#1 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php(10): Referral_List_Table->__construct()
+#2 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php(19): AU_Referral_Plugin->init()
+#3 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): au_init_plugin('')
+#4 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#5 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#6 C:\xampp\htdocs\wp_demo\wp-settings.php(578): do_action('plugins_loaded')
+#7 C:\xampp\htdocs\wp_demo\wp-config.php(105): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wp_demo\wp-load.php(50):  in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php on line 149
+[27-Apr-2025 07:28:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function convert_to_screen() in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php:149
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php(34): WP_List_Table->__construct(Array)
+#1 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php(10): Referral_List_Table->__construct()
+#2 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php(19): AU_Referral_Plugin->init()
+#3 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): au_init_plugin('')
+#4 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#5 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#6 C:\xampp\htdocs\wp_demo\wp-settings.php(578): do_action('plugins_loaded')
+#7 C:\xampp\htdocs\wp_demo\wp-config.php(105): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wp_demo\wp-load.php(50):  in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php on line 149
+[27-Apr-2025 07:29:43 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php:30
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php(6): require_once()
+#1 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php(19): AU_Referral_Plugin->init()
+#2 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): au_init_plugin('')
+#3 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\wp_demo\wp-settings.php(578): do_action('plugins_loaded')
+#6 C:\xampp\htdocs\wp_demo\wp-config.php(105): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wp_demo\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wp_demo\wp-admin\admin.php(35): require_once('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\w in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php on line 30
+[27-Apr-2025 07:30:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php:30
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php(6): require_once()
+#1 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php(19): AU_Referral_Plugin->init()
+#2 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): au_init_plugin('')
+#3 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\wp_demo\wp-settings.php(578): do_action('plugins_loaded')
+#6 C:\xampp\htdocs\wp_demo\wp-config.php(105): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wp_demo\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wp_demo\wp-admin\admin.php(35): require_once('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\w in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php on line 30
+[27-Apr-2025 07:31:41 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php:31
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php(6): require_once()
+#1 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php(19): AU_Referral_Plugin->init()
+#2 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): au_init_plugin('')
+#3 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\wp_demo\wp-settings.php(578): do_action('plugins_loaded')
+#6 C:\xampp\htdocs\wp_demo\wp-config.php(105): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wp_demo\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wp_demo\wp-admin\admin.php(35): require_once('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\w in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php on line 31
+[27-Apr-2025 07:31:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function convert_to_screen() in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php:149
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php(37): WP_List_Table->__construct(Array)
+#1 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php(10): Referral_List_Table->__construct()
+#2 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php(19): AU_Referral_Plugin->init()
+#3 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): au_init_plugin('')
+#4 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#5 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#6 C:\xampp\htdocs\wp_demo\wp-settings.php(578): do_action('plugins_loaded')
+#7 C:\xampp\htdocs\wp_demo\wp-config.php(105): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wp_demo\wp-load.php(50):  in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php on line 149
+[27-Apr-2025 07:32:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function convert_to_screen() in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php:149
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php(38): WP_List_Table->__construct(Array)
+#1 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php(10): Referral_List_Table->__construct()
+#2 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php(19): AU_Referral_Plugin->init()
+#3 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): au_init_plugin('')
+#4 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#5 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#6 C:\xampp\htdocs\wp_demo\wp-settings.php(578): do_action('plugins_loaded')
+#7 C:\xampp\htdocs\wp_demo\wp-config.php(105): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wp_demo\wp-load.php(50):  in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php on line 149
+[27-Apr-2025 07:34:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function convert_to_screen() in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php:149
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php(34): WP_List_Table->__construct(Array)
+#1 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php(10): Referral_List_Table->__construct()
+#2 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php(19): AU_Referral_Plugin->init()
+#3 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): au_init_plugin('')
+#4 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#5 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#6 C:\xampp\htdocs\wp_demo\wp-settings.php(578): do_action('plugins_loaded')
+#7 C:\xampp\htdocs\wp_demo\wp-config.php(105): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wp_demo\wp-load.php(50):  in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php on line 149
+[27-Apr-2025 07:34:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function convert_to_screen() in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php:149
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php(34): WP_List_Table->__construct(Array)
+#1 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php(10): Referral_List_Table->__construct()
+#2 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php(19): AU_Referral_Plugin->init()
+#3 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): au_init_plugin('')
+#4 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#5 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#6 C:\xampp\htdocs\wp_demo\wp-settings.php(578): do_action('plugins_loaded')
+#7 C:\xampp\htdocs\wp_demo\wp-config.php(105): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wp_demo\wp-load.php(50):  in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php on line 149
+[27-Apr-2025 07:35:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function convert_to_screen() in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php:149
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php(38): WP_List_Table->__construct(Array)
+#1 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php(10): Referral_List_Table->__construct()
+#2 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php(19): AU_Referral_Plugin->init()
+#3 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): au_init_plugin('')
+#4 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#5 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#6 C:\xampp\htdocs\wp_demo\wp-settings.php(578): do_action('plugins_loaded')
+#7 C:\xampp\htdocs\wp_demo\wp-config.php(105): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wp_demo\wp-load.php(50):  in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php on line 149
+[27-Apr-2025 07:35:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function convert_to_screen() in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php:149
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php(38): WP_List_Table->__construct(Array)
+#1 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php(10): Referral_List_Table->__construct()
+#2 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php(19): AU_Referral_Plugin->init()
+#3 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): au_init_plugin('')
+#4 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#5 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#6 C:\xampp\htdocs\wp_demo\wp-settings.php(578): do_action('plugins_loaded')
+#7 C:\xampp\htdocs\wp_demo\wp-config.php(105): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wp_demo\wp-load.php(50):  in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php on line 149
+[27-Apr-2025 07:35:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function convert_to_screen() in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php:149
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php(38): WP_List_Table->__construct(Array)
+#1 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php(10): Referral_List_Table->__construct()
+#2 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php(19): AU_Referral_Plugin->init()
+#3 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): au_init_plugin('')
+#4 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#5 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#6 C:\xampp\htdocs\wp_demo\wp-settings.php(578): do_action('plugins_loaded')
+#7 C:\xampp\htdocs\wp_demo\wp-config.php(105): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wp_demo\wp-load.php(50):  in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php on line 149
+[27-Apr-2025 07:35:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function convert_to_screen() in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php:149
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php(38): WP_List_Table->__construct(Array)
+#1 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php(10): Referral_List_Table->__construct()
+#2 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php(19): AU_Referral_Plugin->init()
+#3 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): au_init_plugin('')
+#4 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#5 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#6 C:\xampp\htdocs\wp_demo\wp-settings.php(578): do_action('plugins_loaded')
+#7 C:\xampp\htdocs\wp_demo\wp-config.php(105): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wp_demo\wp-load.php(50):  in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php on line 149
+[27-Apr-2025 07:35:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function convert_to_screen() in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php:149
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php(38): WP_List_Table->__construct(Array)
+#1 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php(10): Referral_List_Table->__construct()
+#2 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php(19): AU_Referral_Plugin->init()
+#3 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): au_init_plugin('')
+#4 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#5 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#6 C:\xampp\htdocs\wp_demo\wp-settings.php(578): do_action('plugins_loaded')
+#7 C:\xampp\htdocs\wp_demo\wp-config.php(105): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wp_demo\wp-load.php(50):  in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php on line 149
+[27-Apr-2025 07:35:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function convert_to_screen() in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php:149
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php(38): WP_List_Table->__construct(Array)
+#1 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php(10): Referral_List_Table->__construct()
+#2 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php(19): AU_Referral_Plugin->init()
+#3 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): au_init_plugin('')
+#4 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#5 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#6 C:\xampp\htdocs\wp_demo\wp-settings.php(578): do_action('plugins_loaded')
+#7 C:\xampp\htdocs\wp_demo\wp-config.php(105): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wp_demo\wp-load.php(50):  in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php on line 149
+[27-Apr-2025 07:35:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function convert_to_screen() in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php:149
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php(38): WP_List_Table->__construct(Array)
+#1 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php(10): Referral_List_Table->__construct()
+#2 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php(19): AU_Referral_Plugin->init()
+#3 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): au_init_plugin('')
+#4 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#5 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#6 C:\xampp\htdocs\wp_demo\wp-settings.php(578): do_action('plugins_loaded')
+#7 C:\xampp\htdocs\wp_demo\wp-config.php(105): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wp_demo\wp-load.php(50):  in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php on line 149
+[27-Apr-2025 07:35:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function convert_to_screen() in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php:149
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php(38): WP_List_Table->__construct(Array)
+#1 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php(10): Referral_List_Table->__construct()
+#2 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php(19): AU_Referral_Plugin->init()
+#3 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): au_init_plugin('')
+#4 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#5 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#6 C:\xampp\htdocs\wp_demo\wp-settings.php(578): do_action('plugins_loaded')
+#7 C:\xampp\htdocs\wp_demo\wp-config.php(105): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wp_demo\wp-load.php(50):  in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php on line 149
+[27-Apr-2025 07:35:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function convert_to_screen() in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php:149
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php(38): WP_List_Table->__construct(Array)
+#1 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php(10): Referral_List_Table->__construct()
+#2 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php(19): AU_Referral_Plugin->init()
+#3 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): au_init_plugin('')
+#4 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#5 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#6 C:\xampp\htdocs\wp_demo\wp-settings.php(578): do_action('plugins_loaded')
+#7 C:\xampp\htdocs\wp_demo\wp-config.php(105): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wp_demo\wp-load.php(50):  in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php on line 149
+[27-Apr-2025 07:36:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function convert_to_screen() in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php:149
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php(38): WP_List_Table->__construct(Array)
+#1 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php(10): Referral_List_Table->__construct()
+#2 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php(19): AU_Referral_Plugin->init()
+#3 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): au_init_plugin('')
+#4 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#5 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#6 C:\xampp\htdocs\wp_demo\wp-settings.php(578): do_action('plugins_loaded')
+#7 C:\xampp\htdocs\wp_demo\wp-config.php(105): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wp_demo\wp-load.php(50):  in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php on line 149
+[27-Apr-2025 07:37:12 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php:30
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php(6): require_once()
+#1 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php(19): AU_Referral_Plugin->init()
+#2 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): au_init_plugin('')
+#3 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\wp_demo\wp-settings.php(578): do_action('plugins_loaded')
+#6 C:\xampp\htdocs\wp_demo\wp-config.php(105): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wp_demo\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wp_demo\wp-admin\admin.php(35): require_once('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\w in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php on line 30
+[27-Apr-2025 07:40:41 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php:32
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php(6): require_once()
+#1 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php(19): AU_Referral_Plugin->init()
+#2 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): au_init_plugin('')
+#3 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\wp_demo\wp-settings.php(578): do_action('plugins_loaded')
+#6 C:\xampp\htdocs\wp_demo\wp-config.php(105): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wp_demo\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wp_demo\wp-admin\admin.php(35): require_once('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\w in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php on line 32
+[27-Apr-2025 07:40:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php:32
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php(6): require_once()
+#1 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php(19): AU_Referral_Plugin->init()
+#2 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): au_init_plugin('')
+#3 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\wp_demo\wp-settings.php(578): do_action('plugins_loaded')
+#6 C:\xampp\htdocs\wp_demo\wp-config.php(105): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wp_demo\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wp_demo\wp-admin\admin.php(35): require_once('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\w in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php on line 32
+[27-Apr-2025 07:41:03 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php:27
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php(6): require_once()
+#1 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php(19): AU_Referral_Plugin->init()
+#2 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): au_init_plugin('')
+#3 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\wp_demo\wp-settings.php(578): do_action('plugins_loaded')
+#6 C:\xampp\htdocs\wp_demo\wp-config.php(105): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wp_demo\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wp_demo\wp-admin\admin.php(35): require_once('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\w in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php on line 27
+[27-Apr-2025 07:41:05 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php:27
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php(6): require_once()
+#1 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php(19): AU_Referral_Plugin->init()
+#2 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): au_init_plugin('')
+#3 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\wp_demo\wp-settings.php(578): do_action('plugins_loaded')
+#6 C:\xampp\htdocs\wp_demo\wp-config.php(105): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wp_demo\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wp_demo\wp-admin\admin.php(35): require_once('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\w in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php on line 27
+[27-Apr-2025 07:41:23 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php:32
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php(6): require_once()
+#1 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php(19): AU_Referral_Plugin->init()
+#2 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): au_init_plugin('')
+#3 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\wp_demo\wp-settings.php(578): do_action('plugins_loaded')
+#6 C:\xampp\htdocs\wp_demo\wp-config.php(105): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wp_demo\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wp_demo\wp-admin\admin.php(35): require_once('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\w in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php on line 32
+[27-Apr-2025 07:44:04 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php:32
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php(6): require_once()
+#1 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php(19): AU_Referral_Plugin->init()
+#2 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): au_init_plugin('')
+#3 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\wp_demo\wp-settings.php(578): do_action('plugins_loaded')
+#6 C:\xampp\htdocs\wp_demo\wp-config.php(105): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wp_demo\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wp_demo\wp-admin\admin.php(35): require_once('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\w in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php on line 32
+[27-Apr-2025 07:44:15 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php:32
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php(6): require_once()
+#1 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php(19): AU_Referral_Plugin->init()
+#2 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): au_init_plugin('')
+#3 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\wp_demo\wp-settings.php(578): do_action('plugins_loaded')
+#6 C:\xampp\htdocs\wp_demo\wp-config.php(105): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wp_demo\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wp_demo\wp-admin\admin.php(35): require_once('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\w in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php on line 32
+[27-Apr-2025 07:44:22 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php:32
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php(6): require_once()
+#1 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php(19): AU_Referral_Plugin->init()
+#2 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): au_init_plugin('')
+#3 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\wp_demo\wp-settings.php(578): do_action('plugins_loaded')
+#6 C:\xampp\htdocs\wp_demo\wp-config.php(105): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wp_demo\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wp_demo\wp-admin\admin.php(35): require_once('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\w in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php on line 32
+[27-Apr-2025 07:50:54 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php:32
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php(6): require_once()
+#1 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php(19): AU_Referral_Plugin->init()
+#2 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): au_init_plugin('')
+#3 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\wp_demo\wp-settings.php(578): do_action('plugins_loaded')
+#6 C:\xampp\htdocs\wp_demo\wp-config.php(105): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wp_demo\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wp_demo\wp-admin\admin.php(35): require_once('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\w in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php on line 32
+[27-Apr-2025 07:51:22 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php:32
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php(6): require_once()
+#1 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php(19): AU_Referral_Plugin->init()
+#2 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): au_init_plugin('')
+#3 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\wp_demo\wp-settings.php(578): do_action('plugins_loaded')
+#6 C:\xampp\htdocs\wp_demo\wp-config.php(105): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wp_demo\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wp_demo\wp-admin\admin.php(35): require_once('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\w in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php on line 32
+[27-Apr-2025 07:51:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Referral_List_Table' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php:10
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php(19): AU_Referral_Plugin->init()
+#1 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): au_init_plugin('')
+#2 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp_demo\wp-settings.php(578): do_action('plugins_loaded')
+#5 C:\xampp\htdocs\wp_demo\wp-config.php(105): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wp_demo\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wp_demo\wp-admin\admin.php(35): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wp_demo\wp-admin\edit.php(10): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php on line 10
+[27-Apr-2025 07:51:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Referral_List_Table' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php:10
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php(19): AU_Referral_Plugin->init()
+#1 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): au_init_plugin('')
+#2 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp_demo\wp-settings.php(578): do_action('plugins_loaded')
+#5 C:\xampp\htdocs\wp_demo\wp-config.php(105): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wp_demo\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wp_demo\wp-admin\admin.php(35): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wp_demo\wp-admin\edit.php(10): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php on line 10
+[27-Apr-2025 07:52:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Referral_List_Table' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php:10
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php(19): AU_Referral_Plugin->init()
+#1 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): au_init_plugin('')
+#2 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp_demo\wp-settings.php(578): do_action('plugins_loaded')
+#5 C:\xampp\htdocs\wp_demo\wp-config.php(105): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wp_demo\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wp_demo\wp-admin\admin.php(35): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wp_demo\wp-admin\edit.php(10): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php on line 10
+[27-Apr-2025 07:52:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Referral_List_Table' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php:10
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php(19): AU_Referral_Plugin->init()
+#1 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): au_init_plugin('')
+#2 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp_demo\wp-settings.php(578): do_action('plugins_loaded')
+#5 C:\xampp\htdocs\wp_demo\wp-config.php(105): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wp_demo\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wp_demo\wp-admin\admin.php(35): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wp_demo\wp-admin\edit.php(10): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php on line 10
+[27-Apr-2025 07:52:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Referral_List_Table' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php:10
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php(19): AU_Referral_Plugin->init()
+#1 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): au_init_plugin('')
+#2 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp_demo\wp-settings.php(578): do_action('plugins_loaded')
+#5 C:\xampp\htdocs\wp_demo\wp-config.php(105): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wp_demo\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wp_demo\wp-admin\admin.php(35): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wp_demo\wp-admin\edit.php(10): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php on line 10
+[27-Apr-2025 07:52:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Referral_List_Table' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php:10
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php(19): AU_Referral_Plugin->init()
+#1 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): au_init_plugin('')
+#2 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp_demo\wp-settings.php(578): do_action('plugins_loaded')
+#5 C:\xampp\htdocs\wp_demo\wp-config.php(105): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wp_demo\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wp_demo\wp-admin\admin.php(35): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wp_demo\wp-admin\edit.php(10): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php on line 10
+[27-Apr-2025 07:53:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Referral_List_Table' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php:10
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php(19): AU_Referral_Plugin->init()
+#1 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): au_init_plugin('')
+#2 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp_demo\wp-settings.php(578): do_action('plugins_loaded')
+#5 C:\xampp\htdocs\wp_demo\wp-config.php(105): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wp_demo\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wp_demo\wp-admin\admin.php(35): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wp_demo\wp-admin\edit.php(10): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php on line 10
+[27-Apr-2025 07:53:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Referral_List_Table' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php:10
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php(19): AU_Referral_Plugin->init()
+#1 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): au_init_plugin('')
+#2 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp_demo\wp-settings.php(578): do_action('plugins_loaded')
+#5 C:\xampp\htdocs\wp_demo\wp-config.php(105): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wp_demo\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wp_demo\wp-admin\admin.php(35): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wp_demo\wp-admin\edit.php(10): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php on line 10
+[27-Apr-2025 07:53:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Referral_List_Table' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php:10
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php(19): AU_Referral_Plugin->init()
+#1 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): au_init_plugin('')
+#2 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp_demo\wp-settings.php(578): do_action('plugins_loaded')
+#5 C:\xampp\htdocs\wp_demo\wp-config.php(105): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wp_demo\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wp_demo\wp-admin\admin.php(35): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wp_demo\wp-admin\index.php(10): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php on line 10
+[27-Apr-2025 07:54:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Referral_List_Table' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php:10
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php(19): AU_Referral_Plugin->init()
+#1 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): au_init_plugin('')
+#2 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp_demo\wp-settings.php(578): do_action('plugins_loaded')
+#5 C:\xampp\htdocs\wp_demo\wp-config.php(105): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wp_demo\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wp_demo\wp-admin\admin.php(35): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wp_demo\wp-admin\index.php(10): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php on line 10
+[27-Apr-2025 07:54:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Referral_List_Table' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php:10
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php(19): AU_Referral_Plugin->init()
+#1 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): au_init_plugin('')
+#2 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp_demo\wp-settings.php(578): do_action('plugins_loaded')
+#5 C:\xampp\htdocs\wp_demo\wp-config.php(105): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wp_demo\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wp_demo\wp-admin\admin.php(35): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wp_demo\wp-admin\index.php(10): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php on line 10
+[27-Apr-2025 07:54:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Referral_List_Table' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php:10
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php(19): AU_Referral_Plugin->init()
+#1 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): au_init_plugin('')
+#2 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp_demo\wp-settings.php(578): do_action('plugins_loaded')
+#5 C:\xampp\htdocs\wp_demo\wp-config.php(105): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wp_demo\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wp_demo\wp-admin\admin.php(35): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wp_demo\wp-admin\index.php(10): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php on line 10
+[27-Apr-2025 07:54:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Referral_List_Table' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php:10
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php(19): AU_Referral_Plugin->init()
+#1 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): au_init_plugin('')
+#2 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp_demo\wp-settings.php(578): do_action('plugins_loaded')
+#5 C:\xampp\htdocs\wp_demo\wp-config.php(105): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wp_demo\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wp_demo\wp-admin\admin.php(35): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wp_demo\wp-admin\index.php(10): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php on line 10
+[27-Apr-2025 07:54:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Referral_List_Table' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php:10
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php(19): AU_Referral_Plugin->init()
+#1 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): au_init_plugin('')
+#2 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp_demo\wp-settings.php(578): do_action('plugins_loaded')
+#5 C:\xampp\htdocs\wp_demo\wp-config.php(105): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wp_demo\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wp_demo\wp-admin\admin.php(35): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wp_demo\wp-admin\index.php(10): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php on line 10
+[27-Apr-2025 07:54:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Referral_List_Table' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php:10
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php(19): AU_Referral_Plugin->init()
+#1 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): au_init_plugin('')
+#2 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp_demo\wp-settings.php(578): do_action('plugins_loaded')
+#5 C:\xampp\htdocs\wp_demo\wp-config.php(105): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wp_demo\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wp_demo\wp-admin\admin.php(35): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wp_demo\wp-admin\index.php(10): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php on line 10
+[27-Apr-2025 07:54:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Referral_List_Table' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php:10
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php(19): AU_Referral_Plugin->init()
+#1 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): au_init_plugin('')
+#2 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp_demo\wp-settings.php(578): do_action('plugins_loaded')
+#5 C:\xampp\htdocs\wp_demo\wp-config.php(105): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wp_demo\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wp_demo\wp-admin\admin.php(35): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wp_demo\wp-admin\index.php(10): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php on line 10
+[27-Apr-2025 07:54:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Referral_List_Table' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php:10
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php(19): AU_Referral_Plugin->init()
+#1 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): au_init_plugin('')
+#2 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp_demo\wp-settings.php(578): do_action('plugins_loaded')
+#5 C:\xampp\htdocs\wp_demo\wp-config.php(105): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wp_demo\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wp_demo\wp-admin\admin.php(35): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wp_demo\wp-admin\index.php(10): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php on line 10
+[27-Apr-2025 07:54:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Referral_List_Table' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php:10
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php(19): AU_Referral_Plugin->init()
+#1 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): au_init_plugin('')
+#2 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp_demo\wp-settings.php(578): do_action('plugins_loaded')
+#5 C:\xampp\htdocs\wp_demo\wp-config.php(105): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wp_demo\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wp_demo\wp-admin\admin.php(35): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wp_demo\wp-admin\index.php(10): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php on line 10
+[27-Apr-2025 07:55:36 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'render_referral_list_page' not found or invalid function name in C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php on line 324
+[27-Apr-2025 07:55:48 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'render_referral_list_page' not found or invalid function name in C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php on line 324
+[27-Apr-2025 07:56:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Referral_List_Table' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php:18
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): render_referral_list_page('')
+#1 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wp_demo\wp-admin\admin.php(260): do_action('toplevel_page_r...')
+#4 {main}
+  thrown in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php on line 18
+[27-Apr-2025 07:56:52 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php:33
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php(6): require_once()
+#1 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php(19): AU_Referral_Plugin->init()
+#2 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): au_init_plugin('')
+#3 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\wp_demo\wp-settings.php(578): do_action('plugins_loaded')
+#6 C:\xampp\htdocs\wp_demo\wp-config.php(105): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wp_demo\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wp_demo\wp-admin\admin.php(35): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php on line 33
+[27-Apr-2025 07:57:18 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php:33
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php(6): require_once()
+#1 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php(19): AU_Referral_Plugin->init()
+#2 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): au_init_plugin('')
+#3 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\wp_demo\wp-settings.php(578): do_action('plugins_loaded')
+#6 C:\xampp\htdocs\wp_demo\wp-config.php(105): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wp_demo\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wp_demo\wp-admin\admin.php(35): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php on line 33
+[27-Apr-2025 07:57:35 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php:32
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php(6): require_once()
+#1 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php(19): AU_Referral_Plugin->init()
+#2 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): au_init_plugin('')
+#3 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\wp_demo\wp-settings.php(578): do_action('plugins_loaded')
+#6 C:\xampp\htdocs\wp_demo\wp-config.php(105): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wp_demo\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wp_demo\wp-admin\admin.php(35): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php on line 32
+[27-Apr-2025 07:58:43 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php:32
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php(6): require_once()
+#1 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php(19): AU_Referral_Plugin->init()
+#2 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): au_init_plugin('')
+#3 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\wp_demo\wp-settings.php(578): do_action('plugins_loaded')
+#6 C:\xampp\htdocs\wp_demo\wp-config.php(105): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wp_demo\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wp_demo\wp-admin\admin.php(35): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php on line 32
+[27-Apr-2025 07:59:10 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php:32
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php(6): require_once()
+#1 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php(19): AU_Referral_Plugin->init()
+#2 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): au_init_plugin('')
+#3 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\wp_demo\wp-settings.php(578): do_action('plugins_loaded')
+#6 C:\xampp\htdocs\wp_demo\wp-config.php(105): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wp_demo\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wp_demo\wp-admin\admin.php(35): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php on line 32
+[27-Apr-2025 07:59:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Referral_List_Table' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php:21
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php(19): AU_Referral_Plugin->init()
+#1 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): au_init_plugin('')
+#2 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp_demo\wp-settings.php(578): do_action('plugins_loaded')
+#5 C:\xampp\htdocs\wp_demo\wp-config.php(105): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wp_demo\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wp_demo\wp-admin\admin.php(35): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php on line 21
+[27-Apr-2025 07:59:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Referral_List_Table' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php:21
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php(19): AU_Referral_Plugin->init()
+#1 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): au_init_plugin('')
+#2 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp_demo\wp-settings.php(578): do_action('plugins_loaded')
+#5 C:\xampp\htdocs\wp_demo\wp-config.php(105): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wp_demo\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wp_demo\wp-admin\admin.php(35): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php on line 21
+[27-Apr-2025 08:00:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Referral_List_Table' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php:16
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): AU_Referral_Plugin->{closure}('')
+#1 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wp_demo\wp-admin\admin.php(176): do_action('admin_init')
+#4 C:\xampp\htdocs\wp_demo\wp-admin\index.php(10): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php on line 16
+[27-Apr-2025 08:00:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Referral_List_Table' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php:16
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): AU_Referral_Plugin->{closure}('')
+#1 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wp_demo\wp-admin\admin.php(176): do_action('admin_init')
+#4 C:\xampp\htdocs\wp_demo\wp-admin\index.php(10): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php on line 16
+[27-Apr-2025 08:00:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Referral_List_Table' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php:16
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): AU_Referral_Plugin->{closure}('')
+#1 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wp_demo\wp-admin\admin.php(176): do_action('admin_init')
+#4 C:\xampp\htdocs\wp_demo\wp-admin\index.php(10): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php on line 16
+[27-Apr-2025 08:00:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Referral_List_Table' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php:16
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): AU_Referral_Plugin->{closure}('')
+#1 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wp_demo\wp-admin\admin.php(176): do_action('admin_init')
+#4 C:\xampp\htdocs\wp_demo\wp-admin\index.php(10): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php on line 16
+[27-Apr-2025 08:00:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Referral_List_Table' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php:16
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): AU_Referral_Plugin->{closure}('')
+#1 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wp_demo\wp-admin\admin.php(176): do_action('admin_init')
+#4 C:\xampp\htdocs\wp_demo\wp-admin\index.php(10): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php on line 16
+[27-Apr-2025 08:00:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Referral_List_Table' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php:16
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): AU_Referral_Plugin->{closure}('')
+#1 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wp_demo\wp-admin\admin.php(176): do_action('admin_init')
+#4 C:\xampp\htdocs\wp_demo\wp-admin\index.php(10): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php on line 16
+[27-Apr-2025 08:00:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Referral_List_Table' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php:16
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): AU_Referral_Plugin->{closure}('')
+#1 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wp_demo\wp-admin\admin.php(176): do_action('admin_init')
+#4 C:\xampp\htdocs\wp_demo\wp-admin\index.php(10): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php on line 16
+[27-Apr-2025 08:00:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Referral_List_Table' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php:16
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): AU_Referral_Plugin->{closure}('')
+#1 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wp_demo\wp-admin\admin.php(176): do_action('admin_init')
+#4 C:\xampp\htdocs\wp_demo\wp-admin\index.php(10): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php on line 16
+[27-Apr-2025 08:00:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Referral_List_Table' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php:16
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): AU_Referral_Plugin->{closure}('')
+#1 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wp_demo\wp-admin\admin.php(176): do_action('admin_init')
+#4 C:\xampp\htdocs\wp_demo\wp-admin\index.php(10): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php on line 16
+[27-Apr-2025 08:00:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Referral_List_Table' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php:16
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): AU_Referral_Plugin->{closure}('')
+#1 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wp_demo\wp-admin\admin.php(176): do_action('admin_init')
+#4 C:\xampp\htdocs\wp_demo\wp-admin\index.php(10): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php on line 16
+[27-Apr-2025 08:00:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Referral_List_Table' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php:16
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): AU_Referral_Plugin->{closure}('')
+#1 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wp_demo\wp-admin\admin.php(176): do_action('admin_init')
+#4 C:\xampp\htdocs\wp_demo\wp-admin\index.php(10): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php on line 16
+[27-Apr-2025 08:00:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Referral_List_Table' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php:16
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): AU_Referral_Plugin->{closure}('')
+#1 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wp_demo\wp-admin\admin.php(176): do_action('admin_init')
+#4 C:\xampp\htdocs\wp_demo\wp-admin\index.php(10): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php on line 16
+[27-Apr-2025 08:00:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Referral_List_Table' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php:16
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): AU_Referral_Plugin->{closure}('')
+#1 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wp_demo\wp-admin\admin.php(176): do_action('admin_init')
+#4 C:\xampp\htdocs\wp_demo\wp-admin\index.php(10): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php on line 16
+[27-Apr-2025 08:00:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Referral_List_Table' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php:16
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): AU_Referral_Plugin->{closure}('')
+#1 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wp_demo\wp-admin\admin.php(176): do_action('admin_init')
+#4 C:\xampp\htdocs\wp_demo\wp-admin\index.php(10): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php on line 16
+[27-Apr-2025 08:00:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Referral_List_Table' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php:16
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): AU_Referral_Plugin->{closure}('')
+#1 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wp_demo\wp-admin\admin.php(176): do_action('admin_init')
+#4 C:\xampp\htdocs\wp_demo\wp-admin\index.php(10): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php on line 16
+[27-Apr-2025 08:00:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Referral_List_Table' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php:16
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): AU_Referral_Plugin->{closure}('')
+#1 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wp_demo\wp-admin\admin.php(176): do_action('admin_init')
+#4 C:\xampp\htdocs\wp_demo\wp-admin\index.php(10): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php on line 16
+[27-Apr-2025 08:00:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Referral_List_Table' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php:16
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): AU_Referral_Plugin->{closure}('')
+#1 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wp_demo\wp-admin\admin.php(176): do_action('admin_init')
+#4 C:\xampp\htdocs\wp_demo\wp-admin\index.php(10): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php on line 16
+[27-Apr-2025 08:03:10 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php:33
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php(6): require_once()
+#1 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php(19): AU_Referral_Plugin->init()
+#2 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): au_init_plugin('')
+#3 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\wp_demo\wp-settings.php(578): do_action('plugins_loaded')
+#6 C:\xampp\htdocs\wp_demo\wp-config.php(105): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wp_demo\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wp_demo\wp-admin\admin.php(35): require_once('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\w in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php on line 33
+[27-Apr-2025 08:04:32 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php:33
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php(12): require_once()
+#1 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php(19): AU_Referral_Plugin->init()
+#2 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): au_init_plugin('')
+#3 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\wp_demo\wp-settings.php(578): do_action('plugins_loaded')
+#6 C:\xampp\htdocs\wp_demo\wp-config.php(105): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wp_demo\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wp_demo\wp-admin\admin.php(35): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php on line 33
+[27-Apr-2025 08:30:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Referral_List_Table' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php:18
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): AU_Referral_Plugin->{closure}('')
+#1 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wp_demo\wp-admin\admin.php(176): do_action('admin_init')
+#4 {main}
+  thrown in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php on line 18
+[27-Apr-2025 08:31:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Referral_List_Table' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php:18
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): AU_Referral_Plugin->{closure}('')
+#1 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wp_demo\wp-admin\admin.php(176): do_action('admin_init')
+#4 {main}
+  thrown in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php on line 18
+[27-Apr-2025 08:41:30 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php:25
+Stack trace:
+#0 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-referral-plugin.php(6): require_once()
+#1 C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\referral-plugin.php(19): AU_Referral_Plugin->init()
+#2 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(324): au_init_plugin('')
+#3 C:\xampp\htdocs\wp_demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\wp_demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\wp_demo\wp-settings.php(578): do_action('plugins_loaded')
+#6 C:\xampp\htdocs\wp_demo\wp-config.php(105): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wp_demo\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wp_demo\wp-admin\admin.php(35): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php on line 25
+[27-Apr-2025 08:42:18 UTC] PHP Notice:  Undefined index: name in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php on line 77
+[27-Apr-2025 08:42:18 UTC] PHP Notice:  Undefined index: email in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php on line 77
+[27-Apr-2025 08:42:18 UTC] PHP Notice:  Undefined index: phone in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php on line 77
+[27-Apr-2025 08:42:18 UTC] PHP Notice:  Undefined index: name in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php on line 77
+[27-Apr-2025 08:42:18 UTC] PHP Notice:  Undefined index: email in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php on line 77
+[27-Apr-2025 08:42:18 UTC] PHP Notice:  Undefined index: phone in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php on line 77
+[27-Apr-2025 08:42:18 UTC] PHP Notice:  Undefined index: name in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php on line 77
+[27-Apr-2025 08:42:18 UTC] PHP Notice:  Undefined index: email in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php on line 77
+[27-Apr-2025 08:42:18 UTC] PHP Notice:  Undefined index: phone in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php on line 77
+[27-Apr-2025 08:50:14 UTC] PHP Notice:  Undefined variable: columns in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php on line 59
+[27-Apr-2025 08:50:14 UTC] PHP Notice:  Undefined variable: hidden in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php on line 59
+[27-Apr-2025 08:50:14 UTC] PHP Notice:  Undefined variable: sortable in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php on line 59
+[27-Apr-2025 08:50:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php on line 1433
+[27-Apr-2025 08:50:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php on line 1765
+[27-Apr-2025 08:50:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php on line 1765
+[27-Apr-2025 08:50:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php on line 1765
+[27-Apr-2025 08:50:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php on line 1433
+[27-Apr-2025 08:51:46 UTC] PHP Notice:  Undefined variable: hidden in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php on line 59
+[27-Apr-2025 08:51:46 UTC] PHP Notice:  Undefined variable: sortable in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php on line 59
+[27-Apr-2025 08:51:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php on line 1439
+[27-Apr-2025 08:51:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php on line 1439
+[27-Apr-2025 08:51:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php on line 1439
+[27-Apr-2025 08:51:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php on line 1439
+[27-Apr-2025 08:51:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php on line 1439
+[27-Apr-2025 08:51:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php on line 1439
+[27-Apr-2025 08:51:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php on line 1771
+[27-Apr-2025 08:51:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php on line 1771
+[27-Apr-2025 08:51:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php on line 1771
+[27-Apr-2025 08:51:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php on line 1771
+[27-Apr-2025 08:51:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php on line 1771
+[27-Apr-2025 08:51:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php on line 1771
+[27-Apr-2025 08:51:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php on line 1771
+[27-Apr-2025 08:51:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php on line 1771
+[27-Apr-2025 08:51:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php on line 1771
+[27-Apr-2025 08:51:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php on line 1771
+[27-Apr-2025 08:51:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php on line 1771
+[27-Apr-2025 08:51:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php on line 1771
+[27-Apr-2025 08:51:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php on line 1771
+[27-Apr-2025 08:51:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php on line 1771
+[27-Apr-2025 08:51:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php on line 1771
+[27-Apr-2025 08:51:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php on line 1771
+[27-Apr-2025 08:51:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php on line 1771
+[27-Apr-2025 08:51:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php on line 1771
+[27-Apr-2025 08:51:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php on line 1439
+[27-Apr-2025 08:51:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php on line 1439
+[27-Apr-2025 08:51:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php on line 1439
+[27-Apr-2025 08:51:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php on line 1439
+[27-Apr-2025 08:51:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php on line 1439
+[27-Apr-2025 08:51:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\wp_demo\wp-admin\includes\class-wp-list-table.php on line 1439
+[27-Apr-2025 09:04:43 UTC] PHP Fatal error:  Cannot redeclare render_referral_list_page() (previously declared in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php:10) in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php on line 124
+[27-Apr-2025 09:10:10 UTC] PHP Fatal error:  Cannot redeclare render_referral_list_page() (previously declared in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php:10) in C:\xampp\htdocs\wp_demo\wp-content\plugins\AU-referral-plugin\includes\class-au-admin-referral-lists.php on line 124
+[27-Apr-2025 09:12:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wp_demo\wp-includes\fonts\class-wp-font-face.php:121) in C:\xampp\htdocs\wp_demo\wp-includes\pluggable.php on line 1450
+[27-Apr-2025 09:12:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wp_demo\wp-includes\fonts\class-wp-font-face.php:121) in C:\xampp\htdocs\wp_demo\wp-includes\pluggable.php on line 1453
+[27-Apr-2025 09:12:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wp_demo\wp-includes\fonts\class-wp-font-face.php:121) in C:\xampp\htdocs\wp_demo\wp-includes\pluggable.php on line 1450
+[27-Apr-2025 09:12:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wp_demo\wp-includes\fonts\class-wp-font-face.php:121) in C:\xampp\htdocs\wp_demo\wp-includes\pluggable.php on line 1453
+[27-Apr-2025 09:13:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wp_demo\wp-includes\fonts\class-wp-font-face.php:121) in C:\xampp\htdocs\wp_demo\wp-includes\pluggable.php on line 1450
+[27-Apr-2025 09:13:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wp_demo\wp-includes\fonts\class-wp-font-face.php:121) in C:\xampp\htdocs\wp_demo\wp-includes\pluggable.php on line 1453
+[27-Apr-2025 09:13:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wp_demo\wp-includes\fonts\class-wp-font-face.php:121) in C:\xampp\htdocs\wp_demo\wp-includes\pluggable.php on line 1450
+[27-Apr-2025 09:13:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wp_demo\wp-includes\fonts\class-wp-font-face.php:121) in C:\xampp\htdocs\wp_demo\wp-includes\pluggable.php on line 1453
