@@ -5,7 +5,7 @@ Answer 1 : We can possiblty write two method
 
 1) Using GROUP BY and HAVING clause
 
-SELECT column, COUNT(*) as no_count FROM table_name
+SELECT column, COUNT(*) as no_count FROM table_name 
 GROUP BY column
 HAVING COUNT(*) > 1;
 
